@@ -1,21 +1,21 @@
-Enunciado;Tipo;Opciones;RespuestaCorrecta
-"¿Cual es la capital de Francia?";"Seleccion Multiple";"Paris,Londres,Berlin";"Paris"
-"El agua hierve a 100°C";"Verdadero/Falso";"";"Verdadero"
-"¿Cuantos planetas hay en el sistema solar?";"Seleccion Multiple";"7,8,9";"8"
-"El sol es un planeta";"Verdadero/Falso";"";"Falso"
-"¿Quien escribio 'Cien años de soledad'?";"Seleccion Multiple";"Gabriel Garcia Marquez,Mario Vargas Llosa,Jorge Luis Borges";"Gabriel Garcia Marquez"
-"El hierro es un metal";"Verdadero/Falso";"";"Verdadero"
-"¿Cual es el resultado de 5 + 3?";"Seleccion Multiple";"6,7,8";"8"
-"El agua es un compuesto quimico";"Verdadero/Falso";"";"Verdadero"
-"¿Cual es el oceano mas grande del mundo?";"Seleccion Multiple";"Atlantico,Pacifico,indico";"Pacifico"
-"Los mamiferos ponen huevos";"Verdadero/Falso";"";"Falso"
-"¿Cual es la raiz cuadrada de 16?";"Seleccion Multiple";"2,4,8";"4"
-"El oxigeno es necesario para la respiracion humana";"Verdadero/Falso";"";"Verdadero"
-"¿Cual es el pais con mayor poblacion en el mundo?";"Seleccion Multiple";"India,China,Estados Unidos";"China"
-"El fuego es un estado de la materia";"Verdadero/Falso";"";"Falso"
-"¿Cuantos lados tiene un hexagono?";"Seleccion Multiple";"5,6,7";"6"
-"El ADN es la molecula que contiene la informacion genetica";"Verdadero/Falso";"";"Verdadero"
-"¿Cual es el rio mas largo del mundo?";"Seleccion Multiple";"Amazonas,Nilo,Misisipi";"Amazonas"
-"Los peces respiran con pulmones";"Verdadero/Falso";"";"Falso"
-"¿Cual es el continente mas grande?";"Seleccion Multiple";"africa,Asia,Europa";"Asia"
-"El sonido viaja mas rapido en el aire que en el agua";"Verdadero/Falso";"";"Falso"
+Enunciado;Nivel;Tipo;Opciones;RespuestaCorrecta;Tiempo
+"¿Cual es la capital de Francia?";"RECORDAR";"Seleccion Multiple";"Paris,Londres,Berlin";"Paris";2
+"El agua hierve a 100°C";"RECORDAR";"Verdadero/Falso";"";"Verdadero";1
+"¿Cuantos planetas hay en el sistema solar?";"RECORDAR";"Seleccion Multiple";"7,8,9";"8";2
+"El sol es un planeta";"ENTENDER";"Verdadero/Falso";"";"Falso";1
+"¿Quien escribio 'Cien años de soledad'?";"RECORDAR";"Seleccion Multiple";"Gabriel Garcia Marquez,Mario Vargas Llosa,Jorge Luis Borges";"Gabriel Garcia Marquez";2
+"El hierro es un metal";"RECORDAR";"Verdadero/Falso";"";"Verdadero";1
+"¿Cual es el resultado de 5 + 3?";"APLICAR";"Seleccion Multiple";"6,7,8";"8";2
+"El agua es un compuesto quimico";"ENTENDER";"Verdadero/Falso";"";"Verdadero";1
+"¿Cual es el oceano mas grande del mundo?";"RECORDAR";"Seleccion Multiple";"Atlantico,Pacifico,indico";"Pacifico";2
+"Los mamiferos ponen huevos";"ENTENDER";"Verdadero/Falso";"";"Falso";1
+"¿Cual es la raiz cuadrada de 16?";"APLICAR";"Seleccion Multiple";"2,4,8";"4";2
+"El oxigeno es necesario para la respiracion humana";"ENTENDER";"Verdadero/Falso";"";"Verdadero";1
+"¿Cual es el pais con mayor poblacion en el mundo?";"RECORDAR";"Seleccion Multiple";"India,China,Estados Unidos";"China";2
+"El fuego es un estado de la materia";"EVALUAR";"Verdadero/Falso";"";"Falso";2
+"¿Cuantos lados tiene un hexagono?";"RECORDAR";"Seleccion Multiple";"5,6,7";"6";2
+"El ADN es la molecula que contiene la informacion genetica";"ENTENDER";"Verdadero/Falso";"";"Verdadero";1
+"¿Cual es el rio mas largo del mundo?";"RECORDAR";"Seleccion Multiple";"Amazonas,Nilo,Misisipi";"Amazonas";2
+"Los peces respiran con pulmones";"ENTENDER";"Verdadero/Falso";"";"Falso";1
+"¿Cual es el continente mas grande?";"RECORDAR";"Seleccion Multiple";"africa,Asia,Europa";"Asia";2
+"El sonido viaja mas rapido en el aire que en el agua";"EVALUAR";"Verdadero/Falso";"";"Falso";2
